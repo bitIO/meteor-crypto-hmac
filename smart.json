@@ -3,9 +3,9 @@
   "description": "HMAC function for CryptoJS, standard secure crypto algorithms",
   "homepage": "https://github.com/oortcloud/meteor-crypto-hmac",
   "author": "Dan Dascalescu <dNOSPAMdascalescu@gmail.com> (http://dandascalescu.com)",
-  "version": "3.1.2.0",
+  "version": "3.1.2.1",
   "git": "https://github.com/oortcloud/meteor-crypto-hmac.git",
   "packages": {
-    "crypto-base": "3.1.2.0"
+    "crypto-base": "3.1.2.1"
   }
 }
